@@ -6,9 +6,9 @@ export default function Contact() {
     <section id="contact" className="py-20 px-4 sm:px-6 lg:px-8 bg-foreground/5">
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-4xl sm:text-5xl font-bold mb-12">Get In Touch</h2>
-        
+
         <p className="text-lg text-foreground/70 mb-12 max-w-2xl mx-auto">
-          I'm always open to discussing new opportunities, interesting projects,
+          I&apos;m always open to discussing new opportunities, interesting projects,
           or just having a chat about technology. Feel free to reach out!
         </p>
 
