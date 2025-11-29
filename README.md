@@ -23,21 +23,13 @@ A modern, responsive portfolio website built with Next.js, React, and TypeScript
 1. Install dependencies:
 ```bash
 npm install
-```
 
-2. Update your portfolio data in `data/portfolio.ts`:
-   - Add your experiences
-   - Add your projects
-   - Update your skills
-   - Update contact information
-   - Customize your bio
-
-3. Run the development server:
+2. Run the development server:
 ```bash
 npm run dev
 ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+3. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 ## Project Structure
 
@@ -60,17 +52,6 @@ npm run dev
 └── ...
 ```
 
-## Customization
-
-### Update Portfolio Data
-
-Edit `data/portfolio.ts` to add your:
-- **Experiences**: Work history and positions
-- **Projects**: Portfolio projects with descriptions and links
-- **Skills**: Technical skills organized by category
-- **Contact Info**: Email, LinkedIn, GitHub links
-- **About Me**: Bio and personal introduction
-
 ### Styling
 
 The website uses Tailwind CSS. You can customize:
@@ -84,14 +65,6 @@ The website uses Tailwind CSS. You can customize:
 npm run build
 npm start
 ```
-
-## Deploy
-
-You can deploy this portfolio to platforms like:
-- **Vercel** (recommended for Next.js)
-- **Netlify**
-- **AWS Amplify**
-- Any platform that supports Next.js
 
 ## License
 
